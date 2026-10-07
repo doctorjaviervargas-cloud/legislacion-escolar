@@ -1,0 +1,34 @@
+LEGISLACIÓN ESCOLAR DE FORMOSA — DR. JAVIER VARGAS
+VERSIÓN BÁSICA ONLINE 4.0
+
+VERSIÓN BÁSICA
+Incluye el COMPENDIO SEGUNDA EDICION completo con el que se viene trabajando y validando la aplicación.
+
+Características:
+- Consulta desde navegador, celular, tablet o PC.
+- Modo seguro y fuentes normativas.
+- Ley 931 + Decreto 1324/93 según la lógica ya validada.
+- Conservación del formato del Compendio cuando corresponde.
+- Historial local del navegador.
+- IA online opcional.
+- Compendio fijo y de solo lectura.
+- Sin panel para subir, borrar o modificar normativa desde la web.
+
+FUTURA VERSIÓN PRO
+La versión Pro será un producto separado y por suscripción. Incluirá:
+- Todo el Compendio de la versión Básica.
+- Decretos de legislación escolar.
+- Resoluciones de legislación escolar.
+- Disposiciones de legislación escolar.
+- Biblioteca normativa ampliada y actualizable.
+- Registro e inicio de sesión.
+- Gestión de suscripciones y control de acceso.
+- Panel administrativo privado para actualización normativa.
+
+IMPORTANTE
+La versión Básica no debe exponer herramientas administrativas ni contenido reservado a la edición Pro.
+
+
+PUBLICACIÓN GRATUITA
+Este paquete incluye render.yaml configurado expresamente con plan: free y no
+requiere una API de IA paga. Consulte PUBLICAR_EN_RENDER_GRATIS.txt.

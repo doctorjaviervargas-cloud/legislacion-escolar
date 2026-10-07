@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: legislacion-escolar-formosa-basica
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: SECRET_KEY
+        generateValue: true
+      - key: MAX_QUERIES_PER_MINUTE
+        value: "20"

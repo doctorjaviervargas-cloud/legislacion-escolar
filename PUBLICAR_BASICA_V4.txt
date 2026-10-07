@@ -1,0 +1,22 @@
+LEGISLACIÓN ESCOLAR DE FORMOSA — VERSIÓN BÁSICA ONLINE 4.0
+
+CONTENIDO DE LA VERSIÓN BÁSICA
+- Incluye el COMPENDIO SEGUNDA EDICION completo con el que se desarrolló y validó la aplicación.
+- La normativa es fija y de solo lectura.
+- No existe panel de administración web para subir, borrar o reemplazar normas.
+
+DIFERENCIA CON LA FUTURA VERSIÓN PRO
+La edición Pro incluirá, además del Compendio:
+- Decretos de legislación escolar.
+- Resoluciones de legislación escolar.
+- Disposiciones de legislación escolar.
+- Biblioteca normativa ampliada y actualizable.
+- Acceso mediante suscripción.
+
+PUBLICACIÓN
+1. Verifique que Normativa\COMPENDIO SEGUNDA EDICION.docx esté presente.
+2. Suba el proyecto a su repositorio/servidor.
+3. Use render.yaml para desplegar.
+4. Configure OPENAI_API_KEY solo si desea IA online.
+
+La edición Básica y la futura edición Pro deben mantenerse como productos separados.

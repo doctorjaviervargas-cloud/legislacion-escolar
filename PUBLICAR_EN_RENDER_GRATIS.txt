@@ -1,0 +1,42 @@
+LEGISLACIÓN ESCOLAR DE FORMOSA — VERSIÓN BÁSICA ONLINE 4.0
+PUBLICACIÓN GRATUITA EN RENDER
+
+Esta carpeta está preparada para Render Free.
+No requiere base de datos ni almacenamiento persistente porque el Compendio
+forma parte del proyecto y la edición Básica es de solo lectura.
+
+PASO A — SUBIR A GITHUB
+1. Cree una cuenta gratuita en https://github.com si todavía no tiene una.
+2. En GitHub, elija New repository.
+3. Nombre sugerido: legislacion-escolar-formosa-basica
+4. Puede dejarlo Public para simplificar la primera publicación.
+5. Cree el repositorio.
+6. Entre al repositorio y elija Add file > Upload files.
+7. Suba TODO el contenido de esta carpeta, manteniendo las carpetas:
+   - Normativa
+   - templates
+   - static
+   y los archivos Dockerfile, render.yaml, app.py, etc.
+8. Confirme con Commit changes.
+
+PASO B — PUBLICAR EN RENDER
+1. Cree una cuenta gratuita en https://render.com.
+2. Conecte su cuenta de GitHub.
+3. En Render seleccione New > Blueprint.
+4. Seleccione el repositorio legislacion-escolar-formosa-basica.
+5. Render detectará render.yaml.
+6. Confirme la creación del servicio. El plan está fijado como FREE.
+7. Espere a que termine el primer deploy.
+8. Render le dará una URL parecida a:
+   https://legislacion-escolar-formosa-basica.onrender.com
+
+IMPORTANTE
+- El servicio gratuito puede dormirse después de un período sin visitas.
+- La primera visita después de dormir puede tardar en abrir.
+- La normativa no se pierde: el Compendio está incluido en el proyecto.
+- Esta edición no incluye subida de normas ni panel administrativo.
+- No se configuró ninguna API paga. La búsqueda segura funciona con el Compendio.
+
+ACTUALIZACIONES
+Si más adelante cambia el código o el Compendio de la versión Básica, reemplace
+los archivos en GitHub y Render podrá volver a desplegar la aplicación.
